@@ -1,1 +1,1 @@
-pytest --html=Reports/report.html
+pytest -v --html=Reports/report.html
